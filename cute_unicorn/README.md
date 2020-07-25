@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+## Preview
+![Unicorn](https://github.com/pranjalibajpai/flutter-apps/blob/master/cute_unicorn/cute_unicorn.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
