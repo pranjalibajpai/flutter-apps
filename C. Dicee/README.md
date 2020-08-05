@@ -4,7 +4,7 @@ Designed a Las Vegas dice app. You can make the die roll at the press of a butto
 
 # Preview 🚀
 
-* ![dicee](https://github.com/pranjalibajpai/flutter-apps/blob/master/demo/dicee-demo.gif) 
+ ![dicee](https://github.com/pranjalibajpai/flutter-apps/blob/master/demo/dicee-demo.gif) 
 
 
 # Learnings 📌
