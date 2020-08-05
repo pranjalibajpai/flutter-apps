@@ -1,0 +1,25 @@
+Stateless Widget
+If we want to use Hot Reload /Hot Restart then we must define it under Satteless Widget.
+In hot restart State of the app is also changed (data associated is reloaded).
+
+Style Text
+Use TextStyle Widget inside Text
+eg. Text(
+        'Pranjali Bajpai',
+        style: TextStyle(
+        fontSize: 30,
+        ),)
+
+Single Child layout: Container has Child
+Multi Child layout: Row/Column has children
+
+Divider : Like horizontal rule
+
+ListTile :
+leading icon 
+title Text
+
+Card instead of Container 
+to have rounded corners and card like features
+doesn't has padding feature hence it's child need to be inside in Padding Widget
+
