@@ -1,0 +1,8 @@
+-TODO in AndroidStudio
+ //TODO: it will show up in ToDo bar
+
+-List
+    List myfavcolor=[];
+    //TO define data type
+    List<Widget>
+    List<String>

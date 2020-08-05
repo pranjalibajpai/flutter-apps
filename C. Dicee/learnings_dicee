@@ -1,0 +1,45 @@
+-Expanded Widget
+
+-Constructor for Image
+
+Use
+child: Image.asset('images/dice1.png'),
+
+instead of
+child: Image(
+          image: AssetImage('images/dice6.png'),
+
+-FlatButton
+    -onpressed(){
+    //statements
+    print('Button pressed');
+    }
+
+-On Hot Reload only things inside build get re runned
+
+-Variables
+    -use $ sign
+
+-Dart is statically typed language
+ var myname='Pranjali';
+ // myname us string
+ myname=123;
+ //this will give error
+
+-var a;
+ //dynamic typed
+ //or
+ dynamic c;
+ c=123;c='Hello'
+
+-JS is dynamically typed language
+-String in dart Single Quotes
+
+-Stateful & Stateless Widgets
+    changes from user interaction Stateful
+
+    setState to call build function again
+
+-import 'dart:math'
+-Random().nextInt(max);
+ returns 0-max-1

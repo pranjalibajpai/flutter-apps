@@ -1,0 +1,5 @@
+-Flutter & Dart Packages
+    audioplayers
+    final player = AudioCache();
+                    player.play('note1.wav');
+    Place audio files in assets only
