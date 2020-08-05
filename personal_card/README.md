@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+## Preview
+![Image](https://github.com/pranjalibajpai/flutter-apps/blob/master/personal_card/pranjali.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
